@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phishing URL Detector
 
 A simple Python-based phishing URL detection tool.
@@ -16,3 +17,7 @@ A simple Python-based phishing URL detection tool.
 
 ```bash
 python main.py
+=======
+# Phishing-URL-Detector
+Phishing detecting project 
+>>>>>>> 1d4b3ae4732eaf19816378855c9c6ef356facf3c
